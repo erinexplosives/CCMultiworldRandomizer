@@ -17,7 +17,7 @@
     "nax-ccuilib": "conorlawton/CCUILib"
   },
   "dependencies": {
-    "archipelago.js": "file:../../../../Downloads/archipelago.js-1.1.0-isomorphicless.tgz",
+    "archipelago.js": "^1.1.0",
     "esbuild-plugin-polyfill-node": "^0.3.0"
   }
 }
